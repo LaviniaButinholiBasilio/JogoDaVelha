@@ -3,6 +3,7 @@
 ![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-success)
 ![Licença](https://img.shields.io/badge/licença-Livre-blue)
+![Autoria](https://img.shields.io/badge/feito%20por-Lavínia%20Butinholi%20Basílio-lightgrey)
 
 ---
 
@@ -42,21 +43,31 @@ git clone https://github.com/seuusuario/jogo-da-velha.git
 cd jogo-da-velha
 python jogo_da_velha.py
 
+## 🎮 Como Jogar
 
-===== COMO JOGAR =====
-
-1. O terminal exibirá o tabuleiro com posições vazias (_).
-2. Cada jogador, por vez, escolhe uma linha e uma coluna digitando dois números separados por espaço (ex: 0 2).
-3. O símbolo (X ou O) será marcado na posição escolhida.
+1. O terminal exibirá o tabuleiro com posições vazias (`_`).  
+2. Cada jogador, por vez, escolhe uma **linha** e uma **coluna** digitando dois números separados por espaço (ex: `0 2`).  
+3. O símbolo (**X** ou **O**) será marcado na posição escolhida.  
 4. O jogo continua até que um jogador vença ou todas as posições sejam preenchidas (empate).
 
+**Exemplo de rodada:**
 
-===== AUTOR =====
+ _ | _ | _
+------------
+ _ | _ | _
+------------
+ _ | _ | _
 
-Desenvolvido por Lavínia Butinholi Basílio
-Um projeto simples para praticar lógica de programação,
-estruturas de repetição e funções em Python.
+Jogador 1, escolha a linha e coluna (0-2) para 'X', separados por espaço: 1 1
 
-===== LICENÇA =====
 
-Este projeto é de uso livre para fins educacionais e de aprendizado.
+## 👩‍💻 Autor
+
+**Lavínia Butinholi Basílio**  
+Projeto criado para fins de estudo em **lógica de programação**, **estruturas de repetição** e **funções em Python**.
+
+
+## 🪶 Licença
+
+Este projeto é de **uso livre** para fins **educacionais e de aprendizado**.  
+Sinta-se à vontade para estudar, modificar e aprimorar. 💡
