@@ -1,9 +1,10 @@
 # 🖥️ Jogo da Velha (Python - Terminal)
 
-![Feito com Python](https://img.shields.io/badge/feito%20com-Python-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-concluído-success)
-![Licença](https://img.shields.io/badge/licença-Livre-blue)
-![Autoria](https://img.shields.io/badge/feito%20por-Lavínia%20Butinholi%20Basílio-lightgrey)
+![Feito com Python](https://img.shields.io/badge/feito%20com-Python-FFC0CB?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-concluído-FFC0CB)
+![Licença](https://img.shields.io/badge/licença-Livre-FFC0CB)
+![Autoria](https://img.shields.io/badge/feito%20por-Lavínia%20Butinholi%20Basílio-FFC0CB)
+
 
 ---
 
@@ -32,16 +33,18 @@ O foco é a **lógica do jogo** — criação do tabuleiro, alternância entre j
 
 ---
 
-## 🚀 Como Executar
 
-### 1️⃣ Pré-requisitos
-- Ter o **Python 3** instalado no sistema
+## 👩‍💻 Autor
 
-### 2️⃣ Clonar o repositório
-```bash
-git clone https://github.com/seuusuario/jogo-da-velha.git
-cd jogo-da-velha
-python jogo_da_velha.py
+**Lavínia Butinholi Basílio**  
+Projeto criado para fins de estudo em **lógica de programação**, **estruturas de repetição** e **funções em Python**.
+
+
+## 🪶 Licença
+
+Este projeto é de **uso livre** para fins **educacionais e de aprendizado**.  
+Sinta-se à vontade para estudar, modificar e aprimorar. 💡
+
 
 ## 🎮 Como Jogar
 
@@ -60,14 +63,13 @@ python jogo_da_velha.py
 
 Jogador 1, escolha a linha e coluna (0-2) para 'X', separados por espaço: 1 1
 
+## 🚀 Como Executar
 
-## 👩‍💻 Autor
+### 1️⃣ Pré-requisitos
+- Ter o **Python 3** instalado no sistema
 
-**Lavínia Butinholi Basílio**  
-Projeto criado para fins de estudo em **lógica de programação**, **estruturas de repetição** e **funções em Python**.
-
-
-## 🪶 Licença
-
-Este projeto é de **uso livre** para fins **educacionais e de aprendizado**.  
-Sinta-se à vontade para estudar, modificar e aprimorar. 💡
+### 2️⃣ Clonar o repositório
+```bash
+git clone https://github.com/seuusuario/jogo-da-velha.git
+cd jogo-da-velha
+python jogo_da_velha.py
